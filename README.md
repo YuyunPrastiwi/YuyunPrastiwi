@@ -1,4 +1,4 @@
-![YuyunPrastiwi](YuyunPrastiwi/img/github-header-image.png)
+![YuyunPrastiwi](img/github-header-image.png)
 
 <!--
 **YuyunPrastiwi/YuyunPrastiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
