@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 #### About Me
 
 > Active student of Informatics Engineering Study Program Semester 6 at Universitas Duta Bangsa Surakarta, with a concentration in Intelligent Systems. Has a high interest in the development of artificial intelligence-based technology and digital solutions. Experienced in leading youth organizations and developing various web and mobile application projects.
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 
 #### Play games with Me
 
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuyunPrastiwi/YuyunPrastiwi/output/pacman-contribution-graph-dark.svg">
